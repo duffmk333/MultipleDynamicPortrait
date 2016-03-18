@@ -1,0 +1,8 @@
+﻿{
+    "displayName": "Multiple Dynamic Portrait",
+    "author": "Duffmk",
+    "version": "0.1",
+    "description": "Multiple Dynamic Portrait Tool allow multiple portraits per characte, dynamically by month day, by week day or random",
+
+    "assemblyFileName": "MultipleDynamicPortrait.dll"
+}
